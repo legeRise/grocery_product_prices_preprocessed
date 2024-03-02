@@ -1,4 +1,4 @@
-This repo contains the price datasets of following grocery products
+This repo contains the price(2013-2024) datasets of following grocery products
 1. Sugar
 2. Rice
 3. Potato
